@@ -4,7 +4,11 @@
 ## 1. Introduction
 This project focuses on predictive analytics for UK car prices using machine learning techniques. It provides insights into the used car market, which has seen significant growth, particularly due to the rise of electric vehicles (EVs) and changing consumer preferences. With a vast number of secondhand cars being sold through various platforms, including private listings and dealerships, predicting the selling price is critical for both buyers and sellers. This project aims to leverage machine learning to predict used car prices based on multiple features such as mileage, fuel type, transmission, and engine size.
 
-![Alt Text]([https://github.com/arsaal575/your-repo-name/blob/main/path-to-your-image/image-file.png](https://github.com/arsaal575/-Predictive-Analytics-for-UK-Car-Prices-using-Machine-Learning/blob/arsaal575-iamges/pic1.jpg?raw=true))
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="pic1.jpg" alt="" style="width:100%;" />
+</div>
 
 ## 2. Background & Literature Review
 The UK used car market is projected to grow significantly, reaching USD 226.16 billion by 2027 with a robust 11.5% annual growth rate. This growth is driven by the increasing demand for electric vehicles, technological advancements, and changes in market dynamics. 
