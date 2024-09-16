@@ -3,7 +3,6 @@
 
 ## 1. Introduction
 This project focuses on predictive analytics for UK car prices using machine learning techniques. It provides insights into the used car market, which has seen significant growth, particularly due to the rise of electric vehicles (EVs) and changing consumer preferences. With a vast number of secondhand cars being sold through various platforms, including private listings and dealerships, predicting the selling price is critical for both buyers and sellers. This project aims to leverage machine learning to predict used car prices based on multiple features such as mileage, fuel type, transmission, and engine size.
-
 <p align="center"> 
 <p>
 <div style="text-align:center;">
@@ -17,6 +16,11 @@ This study employs datasets available on Kaggle, including data from well-known 
 
 ## 3. Datasets
 The datasets used in this project are publicly available on Kaggle:
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="1.PNG" alt="" style="width:100%;" />
+</div>
 - **Sources**: Awais Tayyab, Ashwarya Mathulumar, and Gerrit Hoekstra
 - **Features**: The dataset consists of 72,435 rows and 10 columns, with key features like:
   - Vehicle price
@@ -25,7 +29,11 @@ The datasets used in this project are publicly available on Kaggle:
   - Fuel type (petrol, diesel, electric)
   - Engine size
   - Year of manufacture
-
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="graph1.PNG" alt="" style="width:100%;" />
+</div>
 ## 4. Installation and Setup
 
 ### Prerequisites
@@ -55,11 +63,39 @@ Run the Jupyter notebook or Python script to load, clean, and process the datase
 
 The project uses various machine learning models for prediction, including:
 
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting Regressor
-Linear Regression
-Support Vector Machine (SVM)
+## Decision Tree Regressor
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="model1.PNG" alt="" style="width:100%;" />
+</div>
+## Random Forest Regressor
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="model3.PNG" alt="" style="width:100%;" />
+</div>
+## Gradient Boosting Regressor
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="model2.PNG" alt="" style="width:100%;" />
+</div>
+## Linear Regression
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="model4.PNG" alt="" style="width:100%;" />
+</div>
+## Support Vector Machine (SVM)
+<p align="center"> 
+<p>
+<div style="text-align:center;">
+    <img src="model5.PNG" alt="" style="width:100%;" />
+</div>
+
+
+
 Model results are evaluated using metrics such as:
 
 Mean Absolute Error (MAE)
